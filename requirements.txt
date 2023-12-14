@@ -1,0 +1,3 @@
+Telethon==1.33.1
+prettytable==3.9.0
+termcolor==2.4.0
